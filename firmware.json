@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 2,
+    "version": 1,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/melyssamariana/servomotor/main/servo.ino.esp32.bin"
